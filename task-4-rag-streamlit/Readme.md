@@ -8,7 +8,7 @@ This project implements an interactive Retrieval Augmented Generation (RAG) appl
 
 ## Features
 
-- Upload multiple documents in PDF, DOCX, and TXT formats.
+- Upload document in PDF, DOCX, and TXT formats.
 - Parse and preprocess the uploaded documents for effective content retrieval.
 - Retrieve relevant passages using a document retrieval mechanism.
 - Generate contextually relevant answers using a large language model.
